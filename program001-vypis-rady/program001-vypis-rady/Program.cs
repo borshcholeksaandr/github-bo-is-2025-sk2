@@ -1,4 +1,4 @@
-﻿﻿string again = "a";
+﻿string again = "a";
 while (again == "a")
 {
     Console.Clear();
@@ -21,7 +21,7 @@ while (again == "a")
     int first;
     while (!int.TryParse(Console.ReadLine(), out first))
     {
-        Console.Write("Nezadali jste celé číslo. Zadejte první číslo řady znovu: ");
+        Console.Write("Nezadali jste celé čísloooo. Zadejte první číslo řady znovu: ");
     }
 
     Console.WriteLine();
