@@ -6,7 +6,7 @@ while (again == "a")
     Console.WriteLine("*********** Výpis číselné řady *************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
-    Console.WriteLine("************* Tomáš Žižka ******************");
+    Console.WriteLine("************* Olexandr Borshch ******************");
     Console.WriteLine("************** 2.10.2025 *******************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
