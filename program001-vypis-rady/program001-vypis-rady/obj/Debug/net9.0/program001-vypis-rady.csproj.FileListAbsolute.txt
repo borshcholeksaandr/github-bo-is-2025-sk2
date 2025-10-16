@@ -12,3 +12,4 @@ c:\IS-Programy\program001-vypis-rady\program001-vypis-rady\obj\Debug\net9.0\refi
 c:\IS-Programy\program001-vypis-rady\program001-vypis-rady\obj\Debug\net9.0\program001-vypis-rady.pdb
 c:\IS-Programy\program001-vypis-rady\program001-vypis-rady\obj\Debug\net9.0\program001-vypis-rady.genruntimeconfig.cache
 c:\IS-Programy\program001-vypis-rady\program001-vypis-rady\obj\Debug\net9.0\ref\program001-vypis-rady.dll
+c:\IS-Programy\program001-vypis-rady\program001-vypis-rady\obj\Debug\net9.0\program001-vypis-rady.sourcelink.json

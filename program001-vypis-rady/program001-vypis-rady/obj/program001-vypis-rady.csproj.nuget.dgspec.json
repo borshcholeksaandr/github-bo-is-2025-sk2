@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
+    "c:\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
   },
   "projects": {
-    "C:\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady\\program001-vypis-rady.csproj": {
+    "c:\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady\\program001-vypis-rady.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectUniqueName": "c:\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady\\program001-vypis-rady.csproj",
         "projectName": "program001-vypis-rady",
-        "projectPath": "C:\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectPath": "c:\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady\\program001-vypis-rady.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady\\obj\\",
+        "outputPath": "c:\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
