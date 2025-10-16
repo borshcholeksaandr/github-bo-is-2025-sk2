@@ -1,4 +1,6 @@
-﻿﻿string again = "a";
+﻿using System.Transactions;
+
+string again = "a";
 while (again == "a")
 {
     Console.Clear();
@@ -51,4 +53,22 @@ while (again == "a")
     Console.WriteLine("První číslo: {0}; Poslední číslo: {1}; Diference: {2}", first, last, step);
     Console.WriteLine("============================================");
 
+    // Výpis číselné řady
+    Console.WriteLine();
+    Console.WriteLine("============================================");
+    Console.WriteLine("Výpis číselné řady:");
+
+
+    int current = first;
+    while (current <= last)
+    {
+        Console.WriteLine(current);
+        current = current + step; // pricteni diference k aktuakni vypisovane hodnote
+    
+    }
+
+    Console.WriteLine();
+    Console.Write("Pro opakování programu stiskněte 'a', pro ukončení libovolnou jinou klávesu: ");
+    string? input = Console.ReadLine();
+    again = input ?? "";
 }
